@@ -1,0 +1,256 @@
+{
+  "values": [
+    {
+      "id": "pneumaticcraft:memory_stick",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:amadron_tablet",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:manometer",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:logistics_configurator",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:camo_applicator",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:seismic_sensor",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gps_area_tool",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gps_tool",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo_ap",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo_explosive",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo_freezing",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo_incendiary",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:gun_ammo_weighted",
+      "required": false
+    },
+    {
+      "id": "pneumaticcraft:jackhammer",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:experiencebook",
+      "required": false
+    },
+    {
+      "id": "patchouli:guide_book",
+      "required": false
+    },
+    {
+      "id": "hexerei:book_of_shadows",
+      "required": false
+    },
+    {
+      "id": "iceandfire:bestiary",
+      "required": false
+    },
+    {
+      "id": "aether:book_of_lore",
+      "required": false
+    },
+    {
+      "id": "embers:tinker_hammer",
+      "required": false
+    },
+    {
+      "id": "embers:codebreaking_slate",
+      "required": false
+    },
+    {
+      "id": "embers:ancient_codex",
+      "required": false
+    },
+    {
+      "id": "embers:ember_cartridge",
+      "required": false
+    },
+    {
+      "id": "embers:ember_jar",
+      "required": false
+    },
+    {
+      "id": "embers:ember_bulb",
+      "required": false
+    },
+    {
+      "id": "embers:cinder_staff",
+      "required": false
+    },
+    {
+      "id": "embers:blazing_ray",
+      "required": false
+    },
+    {
+      "id": "embers:clockwork_pickaxe",
+      "required": false
+    },
+    {
+      "id": "embers:clockwork_axe",
+      "required": false
+    },
+    {
+      "id": "embers:grandhammer",
+      "required": false
+    },
+    {
+      "id": "embers:glimmer_lamp",
+      "required": false
+    },
+    {
+      "id": "ae2:memory_card",
+      "required": false
+    },
+    {
+      "id": "ae2:network_tool",
+      "required": false
+    },
+    {
+      "id": "ae2:matter_cannon",
+      "required": false
+    },
+    {
+      "id": "ae2:color_applicator",
+      "required": false
+    },
+    {
+      "id": "ae2:charged_staff",
+      "required": false
+    },
+    {
+      "id": "ae2:entropy_manipulator",
+      "required": false
+    },
+    {
+      "id": "ae2:nether_quartz_cutting_knife",
+      "required": false
+    },
+    {
+      "id": "ae2:certus_quartz_cutting_knife",
+      "required": false
+    },
+    {
+      "id": "spectrum:ink_flask",
+      "required": false
+    },
+    {
+      "id": "spectrum:ink_assortment",
+      "required": false
+    },
+    {
+      "id": "spectrum:guidebook",
+      "required": false
+    },
+    {
+      "id": "spectrum:paintbrush",
+      "required": false
+    },
+    {
+      "id": "spectrum:exchanging_staff",
+      "required": false
+    },
+    {
+      "id": "spectrum:constructors_staff",
+      "required": false
+    },
+    {
+      "id": "spectrum:radiance_staff",
+      "required": false
+    },
+    {
+      "id": "spectrum:staff_of_remembrance",
+      "required": false
+    },
+    {
+      "id": "spectrum:lagoon_rod",
+      "required": false
+    },
+    {
+      "id": "spectrum:molten_rod",
+      "required": false
+    },
+    {
+      "id": "spectrum:crescent_clock",
+      "required": false
+    },
+    {
+      "id": "spectrum:crafting_tablet",
+      "required": false
+    },
+    {
+      "id": "supplementaries:slice_map",
+      "required": false
+    },
+    {
+      "id": "supplementaries:quiver",
+      "required": false
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "required": false
+    },
+    {
+      "id": "supplementaries:flute",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "required": false
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "required": false
+    },
+    {
+      "id": "supplementaries:key",
+      "required": false
+    },
+    {
+      "id": "quark:pathfinders_quill",
+      "required": false
+    },
+    {
+      "id": "quark:trowel",
+      "required": false
+    },
+    {
+      "id": "quark:abacus",
+      "required": false
+    },
+    {
+      "id": "map_atlases:atlas",
+      "required": false
+    }
+  ]
+}
