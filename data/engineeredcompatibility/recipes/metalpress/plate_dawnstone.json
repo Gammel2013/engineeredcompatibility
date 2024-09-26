@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "embers"
+    }
+  ],
+  "type": "immersiveengineering:metal_press",
+  "energy": 2400,
+  "input": {
+    "tag": "forge:ingots/dawnstone"
+  },
+  "mold": "immersiveengineering:mold_plate",
+  "result": {
+    "tag": "forge:plates/dawnstone"
+  }
+}

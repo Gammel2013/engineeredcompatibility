@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "embers"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "item": "embers:ember_crystal"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "embers:ember_shard"
+    },
+    "count": 6
+  }
+}
