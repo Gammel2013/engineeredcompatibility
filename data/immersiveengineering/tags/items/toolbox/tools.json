@@ -69,6 +69,70 @@
       "required": false
     },
     {
+      "id": "bloodmagic:growthsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:miningsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:sigilofmagnetism",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:icesigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:sigilofholding",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:sigilofsuppression",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:divinationsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:seersigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:watersigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:voidsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:lavasigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:airsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:bloodlightsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:telepositionsigil",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:noderouter",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:demonwillgauge",
+      "required": false
+    },
+    {
       "id": "bloodmagic:ritualdiviner",
       "required": false
     },
@@ -82,6 +146,10 @@
     },
     {
       "id": "bloodmagic:daggerofsacrifice",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulsnare",
       "required": false
     },
     {
@@ -105,11 +173,23 @@
       "required": false
     },
     {
+      "id": "bloodmagic:throwing_dagger_syringe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:throwing_dagger",
+      "required": false
+    },
+    {
       "id": "bloodmagic:amethystthrowingdagger",
       "required": false
     },
     {
       "id": "bloodmagic:tippedamethystthrowingdagger",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:resonator",
       "required": false
     },
     {
