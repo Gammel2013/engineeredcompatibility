@@ -459,6 +459,66 @@
     {
       "id": "tetra:holo",
       "required": false
+    },
+    {
+      "id": "#botania:rods",
+      "required": false
+    },
+    {
+      "id": "botania:lexicon",
+      "required": false
+    },
+    {
+      "id": "botania:ender_dagger",
+      "required": false
+    },
+    {
+      "id": "botania:mana_tablet",
+      "required": false
+    },
+    {
+      "id": "botania:mana_mirror",
+      "required": false
+    },
+    {
+      "id": "botania:livingwood_bow",
+      "required": false
+    },
+    {
+      "id": "botania:crystal_bow",
+      "required": false
+    },
+    {
+      "id": "botania:mana_gun",
+      "required": false
+    },
+    {
+      "id": "botania:horn_grass",
+      "required": false
+    },
+    {
+      "id": "botania:horn_leaves",
+      "required": false
+    },
+    {
+      "id": "botania:horn_snow",
+      "required": false
+    },
+    {
+      "id": "botania:slingshot",
+      "required": false
+    },
+    {
+      "id": "botania:ender_hand",
+      "required": false
+    },
+    {
+      "id": "botania:sextant",
+      "required": false
+    },
+    {
+      "id": "botania:astrolabe",
+      "required": false
     }
   ]
 }
