@@ -33,6 +33,10 @@
       "required": false
     },
     {
+      "id": "pneumaticcraft:remote",
+      "required": false
+    },
+    {
       "id": "pneumaticcraft:gun_ammo",
       "required": false
     },
@@ -65,11 +69,63 @@
       "required": false
     },
     {
-      "id": "patchouli:guide_book",
+      "id": "bloodmagic:ritualdiviner",
       "required": false
     },
     {
-      "id": "hexerei:book_of_shadows",
+      "id": "bloodmagic:ritualdivinerdusk",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:sacrificialdagger",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:daggerofsacrifice",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulsword",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulaxe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulpickaxe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulshovel",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:soulscythe",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:amethystthrowingdagger",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:tippedamethystthrowingdagger",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:simplekey",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:mineentrancekey",
+      "required": false
+    },
+    {
+      "id": "bloodmagic:minekey",
+      "required": false
+    },
+    {
+      "id": "patchouli:guide_book",
       "required": false
     },
     {
@@ -81,7 +137,23 @@
       "required": false
     },
     {
+      "id": "aether:dungeon_keys",
+      "required": false
+    },
+    {
       "id": "embers:tinker_hammer",
+      "required": false
+    },
+    {
+      "id": "embers:tinker_lens",
+      "required": false
+    },
+    {
+      "id": "embers:smoky_tinker_lens",
+      "required": false
+    },
+    {
+      "id": "#embers:gauge_overlay",
       "required": false
     },
     {
@@ -161,6 +233,14 @@
       "required": false
     },
     {
+      "id": "ae2:wireless_terminal",
+      "required": false
+    },
+    {
+      "id": "ae2:wireless_crafting_terminal",
+      "required": false
+    },
+    {
       "id": "spectrum:ink_flask",
       "required": false
     },
@@ -209,10 +289,6 @@
       "required": false
     },
     {
-      "id": "supplementaries:slice_map",
-      "required": false
-    },
-    {
       "id": "supplementaries:quiver",
       "required": false
     },
@@ -250,6 +326,58 @@
     },
     {
       "id": "map_atlases:atlas",
+      "required": false
+    },
+    {
+      "id": "create:super_glue",
+      "required": false
+    },
+    {
+      "id": "create:minecart_coupling",
+      "required": false
+    },
+    {
+      "id": "create:wand_of_symmetry",
+      "required": false
+    },
+    {
+      "id": "create:clipboard",
+      "required": false
+    },
+    {
+      "id": "create:linked_controller",
+      "required": false
+    },
+    {
+      "id": "#create:sandpaper",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_double",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_sword",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_bow",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_crossbow",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_shield",
+      "required": false
+    },
+    {
+      "id": "tetra:modular_single",
+      "required": false
+    },
+    {
+      "id": "tetra:holo",
       "required": false
     }
   ]
