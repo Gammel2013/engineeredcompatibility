@@ -10,7 +10,7 @@
     "item": "quark:glow_shroom"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "quark:glow_shroom"
   },
   "results": [

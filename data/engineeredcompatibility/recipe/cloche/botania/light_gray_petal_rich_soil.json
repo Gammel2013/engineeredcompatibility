@@ -14,7 +14,7 @@
     "item": "botania:light_gray_petal"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "botania:light_gray_mystical_flower"
   },
   "results": [

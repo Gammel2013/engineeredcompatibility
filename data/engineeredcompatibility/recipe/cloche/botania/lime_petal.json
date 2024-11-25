@@ -10,7 +10,7 @@
     "item": "botania:lime_petal"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "botania:lime_mystical_flower"
   },
   "results": [

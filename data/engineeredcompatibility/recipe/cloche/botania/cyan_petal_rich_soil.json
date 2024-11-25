@@ -14,7 +14,7 @@
     "item": "botania:cyan_petal"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "botania:cyan_mystical_flower"
   },
   "results": [

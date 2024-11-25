@@ -10,7 +10,7 @@
     "item": "botania:pink_petal"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "botania:pink_mystical_flower"
   },
   "results": [

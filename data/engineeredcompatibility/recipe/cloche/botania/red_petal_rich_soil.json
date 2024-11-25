@@ -14,7 +14,7 @@
     "item": "botania:red_petal"
   },
   "render": {
-    "type": "generic",
+    "type": "immersiveengineering:generic",
     "block": "botania:red_mystical_flower"
   },
   "results": [
