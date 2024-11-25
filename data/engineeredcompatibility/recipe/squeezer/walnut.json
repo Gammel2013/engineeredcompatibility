@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:nuts/walnut"
+      }
+    }
+  ],
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "fluid": {
+    "Amount": 100,
+    "FluidName": "immersiveengineering:plantoil"
+    },
+  "input": {
+    "basePredicate": {
+      "tag": "c:nuts/walnut"
+    },
+    "count": 1
+  }
+}

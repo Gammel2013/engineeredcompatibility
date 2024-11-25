@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pneumaticcraft"
+    }
+  ],
+  "type": "immersiveengineering:blueprint",
+  "category": "pcb",
+  "inputs": [
+    {
+      "tag": "c:plates/plastic"
+    },
+    {
+      "tag": "c:plates/copper"
+    },
+    {
+      "basePredicate": {
+        "tag": "c:nuggets/silver"
+      },
+      "count": 4
+    },
+    {
+      "basePredicate": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "Count": 4,
+    "id": "pneumaticcraft:empty_pcb"
+  }
+}

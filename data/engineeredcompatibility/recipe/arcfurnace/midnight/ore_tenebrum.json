@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/tenebrum"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/tenebrum"
+      }
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 102400,
+  "input": {
+    "tag": "c:ores/tenebrum"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "tag": "c:ingots/tenebrum"
+      },
+      "count": 2
+    }
+  ],
+  "slag": {
+    "tag": "c:slag"
+  },
+  "time": 200
+}

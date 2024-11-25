@@ -1,0 +1,32 @@
+
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_redux"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 1600,
+  "input": {
+    "item": "aether_redux:fieldsproot_bookshelf"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "aether_redux:fieldsproot_planks"
+    },
+    "count": 4
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    },
+    {
+      "basePredicate": {
+        "item": "minecraft:book"
+      },
+      "count": 3
+    }
+  ],
+  "strippingSecondaries": []
+}

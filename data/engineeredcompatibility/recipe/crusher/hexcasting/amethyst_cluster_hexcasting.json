@@ -1,0 +1,35 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "hexcasting"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:clusters/amethyst"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:gems/amethyst"
+    },
+    "count": 8
+  },
+  "secondaries": [
+    {
+      "chance": 0.9,
+      "conditions": [],
+      "output": {
+        "tag": "c:dusts/amethyst"
+      }
+    },
+    {
+      "chance": 0.25,
+      "conditions": [],
+      "output": {
+        "tag": "c:gems/charged_amethyst"
+      }
+    }
+  ]
+}

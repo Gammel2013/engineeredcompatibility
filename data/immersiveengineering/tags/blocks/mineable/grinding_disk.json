@@ -1,7 +1,7 @@
 {
   "remove": [
     {
-      "id": "#forge:storage_blocks/certus_quartz",
+      "id": "#c:storage_blocks/certus_quartz",
       "required": false
     },
     {

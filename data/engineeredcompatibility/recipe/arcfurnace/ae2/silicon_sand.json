@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ae2"
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [
+    {
+      "basePredicate": {
+        "tag": "c:dusts/coal_coke"
+      },
+      "count": 3
+    }        
+  ],
+  "energy": 204800,
+  "input": {
+    "basePredicate": {
+      "tag": "c:sand"
+    },
+    "count": 2
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "ae2:silicon"
+      },
+      "count": 2
+    }
+  ],
+  "slag": {
+    "tag": "c:slag"
+  },
+  "time": 400
+}

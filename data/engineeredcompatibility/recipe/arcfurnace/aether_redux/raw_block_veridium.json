@@ -1,0 +1,41 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:storage_blocks/raw_veridium"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/veridium"
+      }
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 230400,
+  "input": {
+    "tag": "c:storage_blocks/raw_veridium"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "tag": "c:ingots/veridium"
+      },
+      "count": 13
+    }
+  ],
+  "secondaries": [
+    {
+      "chance": 0.5,
+      "output": {
+        "tag": "c:ingots/veridium"
+      }
+    }
+  ],
+  "time": 900
+}

@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "pneumaticcraft"
+    }
+  ],
+  "type": "immersiveengineering:blueprint",
+  "category": "pcb",
+  "inputs": [
+    {
+     "basePredicate": {
+        "tag": "c:plates/plastic"
+      },
+      "count": 2
+    },
+    {
+      "basePredicate": {
+        "tag": "c:plates/aluminum"
+      },
+      "count": 2
+    },
+    {
+      "tag": "c:dusts/redstone"
+    },
+    {
+      "tag": "immersiveengineering:circuits/solder"
+    }
+  ],
+  "result": {
+    "Count": 4,
+    "id": "pneumaticcraft:capacitor"
+  }
+}

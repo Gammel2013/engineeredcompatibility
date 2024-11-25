@@ -1,0 +1,32 @@
+
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "midnight"
+    }
+  ],
+  "type": "immersiveengineering:sawmill",
+  "energy": 1600,
+  "input": {
+    "item": "midnight:decayed_wood_bookshelf"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "midnight:decayed_planks"
+    },
+    "count": 4
+  },
+  "secondaryOutputs": [
+    {
+      "tag": "c:dusts/wood"
+    },
+    {
+      "basePredicate": {
+        "item": "minecraft:book"
+      },
+      "count": 3
+    }
+  ],
+  "strippingSecondaries": []
+}

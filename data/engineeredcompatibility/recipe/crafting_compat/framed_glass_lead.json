@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "quark"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "L": {
+      "tag": "c:ingots/lead"
+    },
+    "G": {
+      "tag": "c:glass/colorless"
+    }
+  },
+  "pattern": [
+    "LGL",
+    "G G",
+    "LGL"
+  ],
+  "result": {
+    "item": "quark:framed_glass",
+    "count": 8
+  }
+}

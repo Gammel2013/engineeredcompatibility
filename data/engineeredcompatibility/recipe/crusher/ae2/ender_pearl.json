@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/ender_pearl"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:ender_pearls"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/ender_pearl"
+    },
+    "count": 1
+  },
+  "secondaries": [ ]
+}

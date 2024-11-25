@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 512000,
+  "input": {
+    "item": "irons_spellbooks:arcane_debris"
+  },
+  "results": [
+    {
+      "count": 2,
+      "item": "irons_spellbooks:arcane_salvage"
+    }
+  ],
+  "slag": {
+    "tag": "c:slag"
+  },
+  "time": 100
+}

@@ -1,0 +1,38 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:sandstone/soul"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:sand/soul"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "tag": "c:sandstone/soul"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:sand/soul"
+    },
+    "count": 2
+  },
+  "secondaries": [
+    {
+      "chance": 0.75,
+      "conditions": [],
+      "output": {
+        "tag": "c:dusts/saltpeter"
+      }
+    }
+  ]
+}

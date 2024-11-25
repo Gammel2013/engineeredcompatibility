@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "neoforge:tag_empty",
+            "tag": "c:ores/inert_crystal"
+          }
+        },
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "elementalcraft"
+        }
+      ],
+  "type": "immersiveengineering:crusher",
+  "energy": 6000,
+  "input": {
+    "tag": "c:ores/inert_crystal"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "elementalcraft:inert_crystal"
+    },
+    "count": 2
+  },
+  "secondaries": []
+}

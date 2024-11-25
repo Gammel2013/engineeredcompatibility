@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/fluix"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:gems/fluix"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/fluix"
+    },
+    "count": 1
+  },
+  "secondaries": [ ]
+}

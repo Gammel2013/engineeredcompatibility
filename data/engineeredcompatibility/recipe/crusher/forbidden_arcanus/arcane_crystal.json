@@ -1,0 +1,37 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:gems/arcane_crystal"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/arcane_crystal"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:gems/arcane_crystal"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/arcane_crystal"
+    }
+  },
+  "secondaries": [
+    {
+      "chance": 0.125,
+      "conditions": [],
+      "output": {
+        "tag": "c:dusts/arcane_crystal"
+      }
+    }
+  ]
+}

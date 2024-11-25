@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/obsidian"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 4800,
+  "input": {
+    "tag": "c:obsidian"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/obsidian"
+    },
+    "count": 4
+  },
+  "secondaries": []
+}

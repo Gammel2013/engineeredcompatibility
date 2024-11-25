@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/certus_quartz"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:gems/certus_quartz"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:dusts/certus_quartz"
+    },
+    "count": 1
+  },
+  "secondaries": [ ]
+}

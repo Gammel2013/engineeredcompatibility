@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:gems/springaline"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "tag": "c:storage_blocks/springaline"
+  },
+  "result": {
+    "basePredicate": {
+      "tag": "c:gems/springaline"
+    },
+    "count": 4
+  },
+  "secondaries": [ ]
+}

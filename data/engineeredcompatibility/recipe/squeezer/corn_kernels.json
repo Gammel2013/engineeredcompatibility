@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value":{
+          "type": "neoforge:mod_loaded",
+          "modid": "corn_delight"
+      }
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:seeds/corn"
+      }
+    }
+  ],
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "fluid": {
+    "Amount": 60,
+    "FluidName": "immersiveengineering:plantoil"
+  },
+  "input": {
+    "basePredicate": {
+      "tag": "c:seeds/corn"
+    },
+    "count": 1
+  }
+}
