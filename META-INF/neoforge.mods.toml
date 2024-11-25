@@ -11,7 +11,7 @@ issueTrackerURL="https://github.com/voidsong-dragonfly/engineeredcompatibility/i
 # The modid of the mod
 modId="engineeredcompatibility" #mandatory
 # The version number of the mod
-version="3.2.0" #mandatory
+version="4.0.0" #mandatory
 # A display name for the mod
 displayName="Engineered Compatibility" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.neoforged.net/docs/misc/updatechecker/
@@ -31,6 +31,10 @@ authors="Voidsong Dragonfly" #optional
 # NONE means that no display test is set on your mod. You need to do this yourself, see IExtensionPoint.DisplayTest for more information. You can define any scheme you wish with this value.
 # IMPORTANT NOTE: this is NOT an instruction as to which environments (CLIENT or DEDICATED SERVER) your mod loads on. Your mod should load (and maybe do nothing!) whereever it finds itself.
 #displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
+# Show whether the mod is resourcepack-like in the resourcepack menu
+showAsResourcePack=true
+# Show whether the mod is datapack-like in the datapack menu
+showAsDataPack=true
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
@@ -54,13 +58,13 @@ Engineered Compatibility: A datapack-mod adding compatibility between other mods
 [[dependencies.engineeredcompatibility]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.4,1.20.5)"
+    versionRange="[1.21.1,1.21.2)"
     ordering="NONE"
     side="BOTH"
 # Here's another dependency
 [[dependencies.engineeredcompatibility]]
     modId="immersiveengineering"
     mandatory=true
-    versionRange="[11.2.0,)"
+    versionRange="[12.0.0,)"
     ordering="AFTER"
     side="BOTH"
