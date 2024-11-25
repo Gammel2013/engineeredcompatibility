@@ -10,7 +10,7 @@
     "item": "pamhc2crops:sorghumseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamsorghumcrop"
   },
   "results": [

@@ -14,7 +14,7 @@
     "item": "pamhc2crops:elderberryseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamelderberrycrop"
   },
   "results": [

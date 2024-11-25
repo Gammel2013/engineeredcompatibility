@@ -10,7 +10,7 @@
     "item": "farmersdelight:onion"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "farmersdelight:onions"
   },
   "results": [

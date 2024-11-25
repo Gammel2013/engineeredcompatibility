@@ -10,7 +10,7 @@
     "item": "minecraft:beetroot_seeds"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "minecraft:beetroots"
   },
   "results": [

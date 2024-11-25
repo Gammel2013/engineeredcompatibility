@@ -11,7 +11,7 @@
   ],
   "type": "immersiveengineering:cloche",
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "delightful:salmonberry_bush"
   },
   "results": [

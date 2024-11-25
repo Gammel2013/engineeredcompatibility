@@ -14,7 +14,7 @@
     "item": "pamhc2crops:radishseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamradishcrop"
   },
   "results": [

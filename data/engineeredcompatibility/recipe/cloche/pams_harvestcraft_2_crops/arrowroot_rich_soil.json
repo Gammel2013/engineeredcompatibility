@@ -14,7 +14,7 @@
     "item": "pamhc2crops:arrowrootseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamarrowrootcrop"
   },
   "results": [

@@ -10,7 +10,7 @@
     "item": "pamhc2crops:waterchestnutseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamwaterchestnutcrop"
   },
   "results": [

@@ -10,7 +10,7 @@
     "item": "minecraft:nether_wart"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "minecraft:nether_wart"
   },
   "results": [

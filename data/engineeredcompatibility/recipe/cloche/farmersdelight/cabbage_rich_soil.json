@@ -10,7 +10,7 @@
     "item": "farmersdelight:cabbage_seeds"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "farmersdelight:cabbages"
   },
   "results": [

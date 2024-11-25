@@ -10,7 +10,7 @@
     "item": "pamhc2crops:calabashseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamcalabashcrop"
   },
   "results": [

@@ -10,7 +10,7 @@
     "item": "pamhc2crops:kenafseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamkenafcrop"
   },
   "results": [

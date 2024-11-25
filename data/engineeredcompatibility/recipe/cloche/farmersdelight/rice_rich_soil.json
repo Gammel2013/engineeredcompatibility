@@ -10,7 +10,7 @@
     "item": "farmersdelight:rice"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "farmersdelight:rice_panicles"
   },
   "results": [

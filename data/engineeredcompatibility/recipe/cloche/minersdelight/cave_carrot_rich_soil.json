@@ -14,7 +14,7 @@
     "item": "miners_delight:cave_carrot"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "miners_delight:cave_carrots"
   },
   "results": [

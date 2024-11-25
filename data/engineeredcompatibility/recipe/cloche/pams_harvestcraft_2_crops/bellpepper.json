@@ -10,7 +10,7 @@
     "item": "pamhc2crops:bellpepperseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pambellpeppercrop"
   },
   "results": [

@@ -14,7 +14,7 @@
     "item": "pamhc2crops:grapeseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamgrapecrop"
   },
   "results": [

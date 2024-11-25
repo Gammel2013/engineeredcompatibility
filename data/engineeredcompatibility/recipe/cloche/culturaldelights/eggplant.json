@@ -10,7 +10,7 @@
     "item": "culturaldelights:eggplant_seeds"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "culturaldelights:eggplants"
   },
   "results": [

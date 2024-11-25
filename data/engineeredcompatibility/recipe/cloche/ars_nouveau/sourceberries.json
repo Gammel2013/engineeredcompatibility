@@ -10,7 +10,7 @@
     "item": "ars_nouveau:sourceberry_bush"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "ars_nouveau:sourceberry_bush"
   },
   "results": [

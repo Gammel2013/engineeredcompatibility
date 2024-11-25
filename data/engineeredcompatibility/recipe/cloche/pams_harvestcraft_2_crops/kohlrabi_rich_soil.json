@@ -14,7 +14,7 @@
     "item": "pamhc2crops:kohlrabiseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamkohlrabicrop"
   },
   "results": [

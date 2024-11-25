@@ -10,7 +10,7 @@
     "item": "pamhc2crops:bokchoyseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pambokchoycrop"
   },
   "results": [

@@ -10,7 +10,7 @@
     "item": "pamhc2crops:peanutseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pampeanutcrop"
   },
   "results": [

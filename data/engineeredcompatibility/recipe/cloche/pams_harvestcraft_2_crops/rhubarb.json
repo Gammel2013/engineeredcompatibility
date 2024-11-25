@@ -10,7 +10,7 @@
     "item": "pamhc2crops:rhubarbseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamrhubarbcrop"
   },
   "results": [

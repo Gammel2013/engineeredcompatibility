@@ -10,7 +10,7 @@
     "item": "pamhc2crops:nopalesseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamnopalescrop"
   },
   "results": [

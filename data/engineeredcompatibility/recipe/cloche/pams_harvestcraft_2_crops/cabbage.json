@@ -10,7 +10,7 @@
     "item": "pamhc2crops:cabbageseeditem"
   },
   "render": {
-    "type": "crop",
+    "type": "immersiveengineering:crop",
     "block": "pamhc2crops:pamcabbagecrop"
   },
   "results": [
