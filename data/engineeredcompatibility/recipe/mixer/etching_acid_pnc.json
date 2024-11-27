@@ -32,7 +32,7 @@
     }
   ],
   "result": {
-    "Amount": 1000,
-    "FluidName": "pneumaticcraft:etching_acid"
+    "amount": 1000,
+    "id": "pneumaticcraft:etching_acid"
   }
 }
