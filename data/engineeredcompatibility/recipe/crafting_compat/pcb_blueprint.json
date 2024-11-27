@@ -27,7 +27,7 @@
     "ppp"
   ],
   "result": {
-    "item": "immersiveengineering:blueprint",
+    "id": "immersiveengineering:blueprint",
     "nbt": "{blueprint:\"pcb\"}"
   },
   "show_notification": false
