@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "X": {
-      "tag": "c:leather"
+      "tag": "c:leathers"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "minecraft:leather_helmet"
+    "id": "minecraft:leather_helmet"
   },
   "show_notification": true
 }
