@@ -8,8 +8,8 @@
   "type": "immersiveengineering:fermenter",
   "energy": 6400,
   "fluid": {
-    "Amount": 60,
-    "FluidName": "immersiveengineering:ethanol"
+    "amount": 60,
+    "id": "immersiveengineering:ethanol"
   },
   "input": {
     "item": "aether_redux:zanberry"

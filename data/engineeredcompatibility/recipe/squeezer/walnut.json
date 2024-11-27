@@ -11,8 +11,8 @@
   "type": "immersiveengineering:squeezer",
   "energy": 6400,
   "fluid": {
-    "Amount": 100,
-    "FluidName": "immersiveengineering:plantoil"
+    "amount": 100,
+    "id": "immersiveengineering:plantoil"
     },
   "input": {
     "basePredicate": {

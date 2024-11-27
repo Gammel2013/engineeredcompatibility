@@ -8,8 +8,8 @@
   "type": "immersiveengineering:squeezer",
   "energy": 6400,
   "fluid": {
-    "Amount": 125,
-    "FluidName": "homespun:ironberry_juice"
+    "amount": 125,
+    "id": "homespun:ironberry_juice"
   },
   "input": {
     "item": "homespun:ironberries"
