@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:asparagusitem"
+      "id": "pamhc2crops:asparagusitem"
     },
     {
-      "item": "pamhc2crops:asparagusseeditem"
+      "id": "pamhc2crops:asparagusseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:eggplantitem"
+      "id": "pamhc2crops:eggplantitem"
     },
     {
-      "item": "pamhc2crops:eggplantseeditem"
+      "id": "pamhc2crops:eggplantseeditem"
     }
   ],
   "soil": {

@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:sweetpotatoitem"
+      "id": "pamhc2crops:sweetpotatoitem"
     },
     {
-      "item": "pamhc2crops:sweetpotatoseeditem"
+      "id": "pamhc2crops:sweetpotatoseeditem"
     }
   ],
   "soil": {

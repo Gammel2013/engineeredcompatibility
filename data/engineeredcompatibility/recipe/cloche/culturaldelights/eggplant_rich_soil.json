@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "culturaldelights:eggplant"
+      "id": "culturaldelights:eggplant"
     },
     {
-      "item": "culturaldelights:eggplant_seeds"
+      "id": "culturaldelights:eggplant_seeds"
     }
   ],
   "soil": {

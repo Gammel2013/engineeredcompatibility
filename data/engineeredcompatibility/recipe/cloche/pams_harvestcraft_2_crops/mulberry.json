@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:mulberryitem"
+      "id": "pamhc2crops:mulberryitem"
     },
     {
-      "item": "pamhc2crops:mulberryseeditem"
+      "id": "pamhc2crops:mulberryseeditem"
     }
   ],
   "soil": {

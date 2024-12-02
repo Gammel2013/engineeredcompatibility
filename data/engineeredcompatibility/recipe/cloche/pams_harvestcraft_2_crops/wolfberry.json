@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:wolfberryitem"
+      "id": "pamhc2crops:wolfberryitem"
     },
     {
-      "item": "pamhc2crops:wolfberryseeditem"
+      "id": "pamhc2crops:wolfberryseeditem"
     }
   ],
   "soil": {

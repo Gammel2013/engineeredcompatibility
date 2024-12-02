@@ -15,11 +15,11 @@
   },
   "results": [
     {
-      "item": "farmersdelight:cabbage",
+      "id": "farmersdelight:cabbage",
       "count": 2
     },
     {
-      "item": "farmersdelight:cabbage_seeds"
+      "id": "farmersdelight:cabbage_seeds"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:oatsitem"
+      "id": "pamhc2crops:oatsitem"
     },
     {
-      "item": "pamhc2crops:oatsseeditem"
+      "id": "pamhc2crops:oatsseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "culturaldelights:cucumber"
+      "id": "culturaldelights:cucumber"
     },
     {
-      "item": "culturaldelights:cucumber_seeds"
+      "id": "culturaldelights:cucumber_seeds"
     }
   ],
   "soil":{

@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:sesameseedsitem"
+      "id": "pamhc2crops:sesameseedsitem"
     },
     {
-      "item": "pamhc2crops:sesameseedsseeditem"
+      "id": "pamhc2crops:sesameseedsseeditem"
     }
   ],
   "soil": {

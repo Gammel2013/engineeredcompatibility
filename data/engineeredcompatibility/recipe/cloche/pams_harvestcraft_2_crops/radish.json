@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:radishitem"
+      "id": "pamhc2crops:radishitem"
     },
     {
-      "item": "pamhc2crops:radishseeditem"
+      "id": "pamhc2crops:radishseeditem"
     }
   ],
   "soil": {

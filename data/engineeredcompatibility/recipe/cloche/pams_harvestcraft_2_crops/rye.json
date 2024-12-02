@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:ryeitem"
+      "id": "pamhc2crops:ryeitem"
     },
     {
-      "item": "pamhc2crops:ryeseeditem"
+      "id": "pamhc2crops:ryeseeditem"
     }
   ],
   "soil": {

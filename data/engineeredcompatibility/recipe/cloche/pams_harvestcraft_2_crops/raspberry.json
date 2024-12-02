@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:raspberryitem"
+      "id": "pamhc2crops:raspberryitem"
     },
     {
-      "item": "pamhc2crops:raspberryseeditem"
+      "id": "pamhc2crops:raspberryseeditem"
     }
   ],
   "soil": {

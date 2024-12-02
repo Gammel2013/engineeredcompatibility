@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:juteitem"
+      "id": "pamhc2crops:juteitem"
     },
     {
-      "item": "pamhc2crops:juteseeditem"
+      "id": "pamhc2crops:juteseeditem"
     }
   ],
   "soil": {

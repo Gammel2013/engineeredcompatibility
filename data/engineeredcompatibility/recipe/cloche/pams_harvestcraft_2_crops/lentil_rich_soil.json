@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:lentilitem"
+      "id": "pamhc2crops:lentilitem"
     },
     {
-      "item": "pamhc2crops:lentilseeditem"
+      "id": "pamhc2crops:lentilseeditem"
     }
   ],
   "soil": {

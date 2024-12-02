@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:pineappleitem"
+      "id": "pamhc2crops:pineappleitem"
     },
     {
-      "item": "pamhc2crops:pineappleseeditem"
+      "id": "pamhc2crops:pineappleseeditem"
     }
   ],
   "soil": {

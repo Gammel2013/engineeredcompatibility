@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:sorghumitem"
+      "id": "pamhc2crops:sorghumitem"
     },
     {
-      "item": "pamhc2crops:sorghumseeditem"
+      "id": "pamhc2crops:sorghumseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:agaveitem"
+      "id": "pamhc2crops:agaveitem"
     },
     {
-      "item": "pamhc2crops:agaveseeditem"
+      "id": "pamhc2crops:agaveseeditem"
     }
   ],
   "soil": {

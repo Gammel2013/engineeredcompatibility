@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:zucchiniitem"
+      "id": "pamhc2crops:zucchiniitem"
     },
     {
-      "item": "pamhc2crops:zucchiniseeditem"
+      "id": "pamhc2crops:zucchiniseeditem"
     }
   ],
   "soil": {

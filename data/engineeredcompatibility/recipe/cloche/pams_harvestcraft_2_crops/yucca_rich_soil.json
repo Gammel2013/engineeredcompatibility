@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:yuccaitem"
+      "id": "pamhc2crops:yuccaitem"
     },
     {
-      "item": "pamhc2crops:yuccaseeditem"
+      "id": "pamhc2crops:yuccaseeditem"
     }
   ],
   "soil": {

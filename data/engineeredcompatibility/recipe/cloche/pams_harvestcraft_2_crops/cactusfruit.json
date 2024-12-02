@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cactusfruititem"
+      "id": "pamhc2crops:cactusfruititem"
     },
     {
-      "item": "pamhc2crops:cactusfruitseeditem"
+      "id": "pamhc2crops:cactusfruitseeditem"
     }
   ],
   "soil": {

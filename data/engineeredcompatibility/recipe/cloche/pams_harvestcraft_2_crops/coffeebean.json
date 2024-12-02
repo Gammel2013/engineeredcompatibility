@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:coffeebeanitem"
+      "id": "pamhc2crops:coffeebeanitem"
     },
     {
-      "item": "pamhc2crops:coffeebeanseeditem"
+      "id": "pamhc2crops:coffeebeanseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:candleberryitem"
+      "id": "pamhc2crops:candleberryitem"
     },
     {
-      "item": "pamhc2crops:candleberryseeditem"
+      "id": "pamhc2crops:candleberryseeditem"
     }
   ],
   "soil": {

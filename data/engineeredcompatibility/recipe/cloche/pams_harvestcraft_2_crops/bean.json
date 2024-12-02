@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:beanitem"
+      "id": "pamhc2crops:beanitem"
     },
     {
-      "item": "pamhc2crops:beanseeditem"
+      "id": "pamhc2crops:beanseeditem"
     }
   ],
   "soil": {

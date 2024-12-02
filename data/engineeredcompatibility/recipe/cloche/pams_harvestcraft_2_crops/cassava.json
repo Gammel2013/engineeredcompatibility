@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cassavaitem"
+      "id": "pamhc2crops:cassavaitem"
     },
     {
-      "item": "pamhc2crops:cassavaseeditem"
+      "id": "pamhc2crops:cassavaseeditem"
     }
   ],
   "soil": {

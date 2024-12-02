@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cornitem"
+      "id": "pamhc2crops:cornitem"
     },
     {
-      "item": "pamhc2crops:cornseeditem"
+      "id": "pamhc2crops:cornseeditem"
     }
   ],
   "soil": {

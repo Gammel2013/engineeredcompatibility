@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:blueberryitem"
+      "id": "pamhc2crops:blueberryitem"
     },
     {
-      "item": "pamhc2crops:blueberryseeditem"
+      "id": "pamhc2crops:blueberryseeditem"
     }
   ],
   "soil": {

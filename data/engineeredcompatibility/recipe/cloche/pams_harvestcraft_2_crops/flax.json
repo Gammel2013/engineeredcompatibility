@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:flaxitem"
+      "id": "pamhc2crops:flaxitem"
     },
     {
-      "item": "pamhc2crops:flaxseeditem"
+      "id": "pamhc2crops:flaxseeditem"
     }
   ],
   "soil": {

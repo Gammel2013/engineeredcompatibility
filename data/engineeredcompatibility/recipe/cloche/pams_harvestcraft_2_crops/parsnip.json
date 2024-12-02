@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:parsnipitem"
+      "id": "pamhc2crops:parsnipitem"
     },
     {
-      "item": "pamhc2crops:parsnipseeditem"
+      "id": "pamhc2crops:parsnipseeditem"
     }
   ],
   "soil": {

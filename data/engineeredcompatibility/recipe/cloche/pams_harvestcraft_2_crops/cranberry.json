@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cranberryitem"
+      "id": "pamhc2crops:cranberryitem"
     },
     {
-      "item": "pamhc2crops:cranberryseeditem"
+      "id": "pamhc2crops:cranberryseeditem"
     }
   ],
   "soil": {

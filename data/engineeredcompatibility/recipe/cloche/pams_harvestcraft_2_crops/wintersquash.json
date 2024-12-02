@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:wintersquashitem"
+      "id": "pamhc2crops:wintersquashitem"
     },
     {
-      "item": "pamhc2crops:wintersquashseeditem"
+      "id": "pamhc2crops:wintersquashseeditem"
     }
   ],
   "soil": {

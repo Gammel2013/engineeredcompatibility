@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:bokchoyitem"
+      "id": "pamhc2crops:bokchoyitem"
     },
     {
-      "item": "pamhc2crops:bokchoyseeditem"
+      "id": "pamhc2crops:bokchoyseeditem"
     }
   ],
   "soil": {

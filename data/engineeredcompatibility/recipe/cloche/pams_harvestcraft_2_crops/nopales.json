@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:nopalesitem"
+      "id": "pamhc2crops:nopalesitem"
     },
     {
-      "item": "pamhc2crops:nopalesseeditem"
+      "id": "pamhc2crops:nopalesseeditem"
     }
   ],
   "soil": {

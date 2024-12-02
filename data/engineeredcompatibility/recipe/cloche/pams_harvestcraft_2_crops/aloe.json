@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:aloeitem"
+      "id": "pamhc2crops:aloeitem"
     },
     {
-      "item": "pamhc2crops:aloeseeditem"
+      "id": "pamhc2crops:aloeseeditem"
     }
   ],
   "soil": {

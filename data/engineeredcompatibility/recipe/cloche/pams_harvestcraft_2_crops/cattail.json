@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cattailitem"
+      "id": "pamhc2crops:cattailitem"
     },
     {
-      "item": "pamhc2crops:cattailseeditem"
+      "id": "pamhc2crops:cattailseeditem"
     }
   ],
   "soil": {

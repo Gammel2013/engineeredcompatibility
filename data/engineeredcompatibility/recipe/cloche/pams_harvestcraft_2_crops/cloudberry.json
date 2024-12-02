@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cloudberryitem"
+      "id": "pamhc2crops:cloudberryitem"
     },
     {
-      "item": "pamhc2crops:cloudberryseeditem"
+      "id": "pamhc2crops:cloudberryseeditem"
     }
   ],
   "soil": {

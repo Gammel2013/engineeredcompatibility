@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:quinoaitem"
+      "id": "pamhc2crops:quinoaitem"
     },
     {
-      "item": "pamhc2crops:quinoaseeditem"
+      "id": "pamhc2crops:quinoaseeditem"
     }
   ],
   "soil": {

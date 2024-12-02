@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:riceitem"
+      "id": "pamhc2crops:riceitem"
     },
     {
-      "item": "pamhc2crops:riceseeditem"
+      "id": "pamhc2crops:riceseeditem"
     }
   ],
   "soil": {

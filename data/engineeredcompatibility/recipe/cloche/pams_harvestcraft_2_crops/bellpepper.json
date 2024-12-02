@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:bellpepperitem"
+      "id": "pamhc2crops:bellpepperitem"
     },
     {
-      "item": "pamhc2crops:bellpepperseeditem"
+      "id": "pamhc2crops:bellpepperseeditem"
     }
   ],
   "soil": {

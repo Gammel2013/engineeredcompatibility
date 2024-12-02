@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:amaranthitem"
+      "id": "pamhc2crops:amaranthitem"
     },
     {
-      "item": "pamhc2crops:amaranthseeditem"
+      "id": "pamhc2crops:amaranthseeditem"
     }
   ],
   "soil": {

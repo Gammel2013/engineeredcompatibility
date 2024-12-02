@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:chickpeaitem"
+      "id": "pamhc2crops:chickpeaitem"
     },
     {
-      "item": "pamhc2crops:chickpeaseeditem"
+      "id": "pamhc2crops:chickpeaseeditem"
     }
   ],
   "soil": {

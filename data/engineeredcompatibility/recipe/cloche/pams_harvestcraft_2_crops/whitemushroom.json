@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:whitemushroomitem"
+      "id": "pamhc2crops:whitemushroomitem"
     },
     {
-      "item": "pamhc2crops:whitemushroomseeditem"
+      "id": "pamhc2crops:whitemushroomseeditem"
     }
   ],
   "soil": {

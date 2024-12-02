@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:kaleitem"
+      "id": "pamhc2crops:kaleitem"
     },
     {
-      "item": "pamhc2crops:kaleseeditem"
+      "id": "pamhc2crops:kaleseeditem"
     }
   ],
   "soil": {

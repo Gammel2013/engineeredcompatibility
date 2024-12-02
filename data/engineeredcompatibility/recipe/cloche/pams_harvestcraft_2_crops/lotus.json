@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:lotusitem"
+      "id": "pamhc2crops:lotusitem"
     },
     {
-      "item": "pamhc2crops:lotusseeditem"
+      "id": "pamhc2crops:lotusseeditem"
     }
   ],
   "soil": {

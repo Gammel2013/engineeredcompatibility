@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:blackberryitem"
+      "id": "pamhc2crops:blackberryitem"
     },
     {
-      "item": "pamhc2crops:blackberryseeditem"
+      "id": "pamhc2crops:blackberryseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:kenafitem"
+      "id": "pamhc2crops:kenafitem"
     },
     {
-      "item": "pamhc2crops:kenafseeditem"
+      "id": "pamhc2crops:kenafseeditem"
     }
   ],
   "soil": {

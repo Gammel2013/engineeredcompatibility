@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:tomatilloitem"
+      "id": "pamhc2crops:tomatilloitem"
     },
     {
-      "item": "pamhc2crops:tomatilloseeditem"
+      "id": "pamhc2crops:tomatilloseeditem"
     }
   ],
   "soil": {

@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cottonitem"
+      "id": "pamhc2crops:cottonitem"
     },
     {
-      "item": "pamhc2crops:cottonseeditem"
+      "id": "pamhc2crops:cottonseeditem"
     }
   ],
   "soil": {

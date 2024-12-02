@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:spiceleafitem"
+      "id": "pamhc2crops:spiceleafitem"
     },
     {
-      "item": "pamhc2crops:spiceleafseeditem"
+      "id": "pamhc2crops:spiceleafseeditem"
     }
   ],
   "soil": {

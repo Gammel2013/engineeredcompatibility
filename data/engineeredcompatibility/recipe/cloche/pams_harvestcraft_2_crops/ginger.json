@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:gingeritem"
+      "id": "pamhc2crops:gingeritem"
     },
     {
-      "item": "pamhc2crops:gingerseeditem"
+      "id": "pamhc2crops:gingerseeditem"
     }
   ],
   "soil": {

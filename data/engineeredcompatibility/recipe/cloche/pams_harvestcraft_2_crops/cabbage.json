@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:cabbageitem"
+      "id": "pamhc2crops:cabbageitem"
     },
     {
-      "item": "pamhc2crops:cabbageseeditem"
+      "id": "pamhc2crops:cabbageseeditem"
     }
   ],
   "soil": {

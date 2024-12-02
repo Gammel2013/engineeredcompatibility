@@ -20,10 +20,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:tomatoitem"
+      "id": "pamhc2crops:tomatoitem"
     },
     {
-      "item": "pamhc2crops:tomatoseeditem"
+      "id": "pamhc2crops:tomatoseeditem"
     }
   ],
   "soil": {

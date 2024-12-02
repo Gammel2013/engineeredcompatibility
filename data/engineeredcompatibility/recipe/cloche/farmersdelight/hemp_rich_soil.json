@@ -15,11 +15,11 @@
   },
   "results": [
     {
-      "item": "immersiveengineering:hemp_fiber",
+      "id": "immersiveengineering:hemp_fiber",
       "count": 1
     },
     {
-      "item": "immersiveengineering:seed",
+      "id": "immersiveengineering:seed",
       "count": 2
     }
   ],

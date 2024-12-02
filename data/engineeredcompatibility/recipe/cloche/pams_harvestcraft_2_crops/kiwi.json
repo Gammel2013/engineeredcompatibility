@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:kiwiitem"
+      "id": "pamhc2crops:kiwiitem"
     },
     {
-      "item": "pamhc2crops:kiwiseeditem"
+      "id": "pamhc2crops:kiwiseeditem"
     }
   ],
   "soil": {

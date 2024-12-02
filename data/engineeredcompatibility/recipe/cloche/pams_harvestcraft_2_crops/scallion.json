@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:scallionitem"
+      "id": "pamhc2crops:scallionitem"
     },
     {
-      "item": "pamhc2crops:scallionseeditem"
+      "id": "pamhc2crops:scallionseeditem"
     }
   ],
   "soil": {

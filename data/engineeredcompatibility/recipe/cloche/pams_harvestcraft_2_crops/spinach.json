@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:spinachitem"
+      "id": "pamhc2crops:spinachitem"
     },
     {
-      "item": "pamhc2crops:spinachseeditem"
+      "id": "pamhc2crops:spinachseeditem"
     }
   ],
   "soil": {

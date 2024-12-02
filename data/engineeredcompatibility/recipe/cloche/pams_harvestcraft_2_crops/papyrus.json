@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:papyrusitem"
+      "id": "pamhc2crops:papyrusitem"
     },
     {
-      "item": "pamhc2crops:papyrusseeditem"
+      "id": "pamhc2crops:papyrusseeditem"
     }
   ],
   "soil": {

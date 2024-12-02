@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "minecraft:wheat"
+      "id": "minecraft:wheat"
     },
     {
-      "item": "minecraft:wheat_seeds"
+      "id": "minecraft:wheat_seeds"
     }
   ],
   "soil": {

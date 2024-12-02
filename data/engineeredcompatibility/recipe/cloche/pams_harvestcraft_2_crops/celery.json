@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:celeryitem"
+      "id": "pamhc2crops:celeryitem"
     },
     {
-      "item": "pamhc2crops:celeryseeditem"
+      "id": "pamhc2crops:celeryseeditem"
     }
   ],
   "soil": {

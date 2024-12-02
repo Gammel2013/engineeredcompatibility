@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:calabashitem"
+      "id": "pamhc2crops:calabashitem"
     },
     {
-      "item": "pamhc2crops:calabashseeditem"
+      "id": "pamhc2crops:calabashseeditem"
     }
   ],
   "soil": {

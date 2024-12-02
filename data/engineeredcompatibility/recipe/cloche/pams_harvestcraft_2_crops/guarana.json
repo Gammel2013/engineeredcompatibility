@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:guaranaitem"
+      "id": "pamhc2crops:guaranaitem"
     },
     {
-      "item": "pamhc2crops:guaranaseeditem"
+      "id": "pamhc2crops:guaranaseeditem"
     }
   ],
   "soil": {

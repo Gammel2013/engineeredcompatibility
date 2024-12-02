@@ -16,10 +16,10 @@
   "results": [
     {
       "count": 2,
-      "item": "pamhc2crops:truffleitem"
+      "id": "pamhc2crops:truffleitem"
     },
     {
-      "item": "pamhc2crops:truffleseeditem"
+      "id": "pamhc2crops:truffleseeditem"
     }
   ],
   "soil": {
