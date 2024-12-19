@@ -2,9 +2,9 @@
 Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
 
 ### Basegame Changes:
- - Adds `forge:leather` compatibility to all Vanilla recipes that use leather
- - Adds `forge:gravel` compatibility to all Vanilla recipes that use gravel
- - Adds `forge:sand` compatibility to concrete recipes
+ - Adds `c:leathers` compatibility to all Vanilla recipes that use leather
+ - Adds `c:gravels` compatibility to all Vanilla recipes that use gravel
+ - Adds `c:sands` compatibility to concrete recipes
  - Adds a logs-to-sawdust Crusher recipe
 
 
