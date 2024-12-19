@@ -17,7 +17,7 @@
   "energy": 204800,
   "input": {
     "basePredicate": {
-      "tag": "c:sand"
+      "tag": "c:sands"
     },
     "count": 2
   },

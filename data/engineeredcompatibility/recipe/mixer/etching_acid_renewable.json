@@ -14,7 +14,7 @@
   "inputs": [
     {
       "basePredicate": {
-        "tag": "c:gunpowder"
+        "tag": "c:gunpowders"
       },
       "count": 2
     },
