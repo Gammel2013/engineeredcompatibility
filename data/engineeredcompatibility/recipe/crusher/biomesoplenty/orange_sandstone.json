@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/orange"
+        "tag": "c:sandstone/orange_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/orange"
+        "tag": "c:sands/orange"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/orange"
+    "tag": "c:sandstone/orange_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/orange"
+      "tag": "c:sands/orange"
     },
     "count": 2
   },

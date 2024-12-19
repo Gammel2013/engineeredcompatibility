@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/white"
+        "tag": "c:sandstone/white_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/white"
+        "tag": "c:sands/white"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/white"
+    "tag": "c:sandstone/white_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/white"
+      "tag": "c:sands/white"
     },
     "count": 2
   },

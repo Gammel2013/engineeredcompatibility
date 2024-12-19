@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/soulless"
+        "tag": "c:sandstone/soulless_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/soulless"
+        "tag": "c:sands/soulless"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/soulless"
+    "tag": "c:sandstone/soulless_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/soulless"
+      "tag": "c:sands/soulless"
     },
     "count": 2
   },

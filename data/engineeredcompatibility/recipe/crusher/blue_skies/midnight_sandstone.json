@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/midnight"
+        "tag": "c:sandstone/midnight_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/midnight"
+        "tag": "c:sands/midnight"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/midnight"
+    "tag": "c:sandstone/midnight_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/midnight"
+      "tag": "c:sands/midnight"
     },
     "count": 2
   },

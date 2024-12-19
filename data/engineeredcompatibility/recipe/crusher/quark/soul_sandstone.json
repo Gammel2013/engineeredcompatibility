@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/soul"
+        "tag": "c:sandstone/soul_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/soul"
+        "tag": "c:sands/soul"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/soul"
+    "tag": "c:sandstone/soul_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/soul"
+      "tag": "c:sands/soul"
     },
     "count": 2
   },

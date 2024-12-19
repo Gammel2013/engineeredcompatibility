@@ -4,14 +4,14 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/black"
+        "tag": "c:sandstone/black_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/black"
+        "tag": "c:sands/black"
       }
     }
   ],
@@ -22,7 +22,7 @@
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/black"
+      "tag": "c:sands/black_blocks"
     },
     "count": 2
   },

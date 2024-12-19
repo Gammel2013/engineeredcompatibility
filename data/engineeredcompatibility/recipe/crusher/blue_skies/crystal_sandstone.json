@@ -4,25 +4,25 @@
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sandstone/crystal"
+        "tag": "c:sandstone/crystal_blocks"
       }
     },
     {
       "type": "neoforge:not",
       "value": {
         "type": "neoforge:tag_empty",
-        "tag": "c:sand/crystal"
+        "tag": "c:sands/crystal"
       }
     }
   ],
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/crystal"
+    "tag": "c:sandstone/crystal_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sand/crystal"
+      "tag": "c:sands/crystal"
     },
     "count": 2
   },
