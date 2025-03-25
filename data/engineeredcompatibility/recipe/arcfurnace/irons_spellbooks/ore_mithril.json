@@ -1,0 +1,33 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ores/mithril"
+      }
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "immersiveengineering:arc_furnace",
+  "additives": [],
+  "energy": 102400,
+  "input": {
+    "tag": "c:ores/mithril"
+  },
+  "results": [
+    {
+      "basePredicate": {
+        "item": "irons_spellbooks:mithril_scrap"
+      },
+      "count": 2
+    }
+  ],
+  "slag": {
+    "tag": "c:slag"
+  },
+  "time": 200
+}

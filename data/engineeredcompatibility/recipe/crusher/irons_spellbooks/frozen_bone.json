@@ -11,8 +11,10 @@
     "item": "irons_spellbooks:frozen_bone"
   },
   "result": {
-    "count": 6,
-    "item": "minecraft:bone_meal"
+  "basePredicate": {
+      "item": "minecraft:bone_meal"
+    },
+    "count": 6
   },
   "secondaries": []
 }
