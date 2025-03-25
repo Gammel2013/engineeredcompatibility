@@ -21,9 +21,7 @@
     "tag": "c:gems/arcane_crystal"
   },
   "result": {
-    "basePredicate": {
-      "tag": "c:dusts/arcane_crystal"
-    }
+    "tag": "c:dusts/arcane_crystal"
   },
   "secondaries": [
     {
