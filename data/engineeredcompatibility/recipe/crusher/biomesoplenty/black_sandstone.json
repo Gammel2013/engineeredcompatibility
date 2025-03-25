@@ -18,11 +18,11 @@
   "type": "immersiveengineering:crusher",
   "energy": 3200,
   "input": {
-    "tag": "c:sandstone/black"
+    "tag": "c:sandstone/black_blocks"
   },
   "result": {
     "basePredicate": {
-      "tag": "c:sands/black_blocks"
+      "tag": "c:sands/black"
     },
     "count": 2
   },
