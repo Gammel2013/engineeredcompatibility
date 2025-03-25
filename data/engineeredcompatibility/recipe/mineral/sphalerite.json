@@ -13,8 +13,13 @@
     }
   ],
   "type": "immersiveengineering:mineral_mix",
-  "dimensions": [
-    "minecraft:overworld"
+  "biome_predicates": [
+    [
+      "minecraft:is_overworld"
+    ],
+    [
+      "minecraft:is_mountain"
+    ]
   ],
   "fail_chance": 0.05,
   "ores": [
@@ -57,5 +62,5 @@
       }
     }
   ],
-  "weight": 30
+  "weight": 20
 }
