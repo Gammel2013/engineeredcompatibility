@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/end_stone"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "tag": "c:end_stones"
+  },
+  "result": {
+    "tag": "c:dusts/end_stone"
+  }
+}

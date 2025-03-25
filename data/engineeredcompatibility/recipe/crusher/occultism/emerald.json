@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/emerald"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 2400,
+  "input": {
+    "tag": "c:gems/emerald"
+  },
+  "result": {
+    "tag": "c:dusts/emerald"
+  }
+}

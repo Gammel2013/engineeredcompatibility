@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/calcite"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "minecraft:calcite"
+  },
+  "result": {
+    "tag": "c:dusts/calcite"
+  }
+}

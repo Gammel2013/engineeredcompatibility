@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "item": "occultism:otherstone"
+  },
+  "result": {
+    "item": "occultism:othercobblestone"
+  }
+}

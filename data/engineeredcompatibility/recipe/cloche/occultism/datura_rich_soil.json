@@ -1,0 +1,34 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "occultism:datura_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:crop",
+    "block": "occultism:datura"
+  },
+  "results": [
+    {
+      "count": 1,
+      "id": "occultism:datura"
+    },
+    {
+      "count": 2,
+      "id": "occultism:datura_seeds"
+    }
+  ],
+  "soil": {
+    "item": "farmersdelight:rich_soil"
+  },
+  "time": 530
+}

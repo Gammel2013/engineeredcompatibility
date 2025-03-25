@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:dusts/blackstone"
+      }
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "minecraft:blackstone"
+  },
+  "result": {
+    "tag": "c:dusts/blackstone"
+  }
+}
