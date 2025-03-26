@@ -8,8 +8,18 @@ Mod-Datapack adding mod compat to Immersive Engineering machines &amp; products.
  - Adds a logs-to-sawdust Crusher recipe
 
 
+### 1.21.1 Additional Supported Mods:
+ - Occultism:
+    - Adds Iesnium crushing to the Crusher
+    - Adds Blackstone, Otherstone, Endstone, Calcite, Lapis, Emerald, Netherite, and Amethyst crushing to the Crusher
+    - Adds Datura (Demon's Dream) to the Cloche
+ - PneumaticCraft: Repressurized:
+    - Adds Compressed Iron Gears to the Metal Press
+ - Supplementaries:
+    - Adds Flax to the Cloche
+
 ### 1.20.4 Additional Supported Mods:
-- Applied Energistics 2:
+ - Applied Energistics 2:
      - Adds Certus Quartz, Certus Quartz Buds, and Sky Stone to the Rockcutting Blade
  - Aether:
      - Removes Zanite and Ambrosium blocks from the Grinding Disc
