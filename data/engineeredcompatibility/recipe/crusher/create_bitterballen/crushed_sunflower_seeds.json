@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_bic_bit"
+    }
+  ],
+  "type": "immersiveengineering:crusher",
+  "energy": 1600,
+  "input": {
+    "item": "create_bic_bit:sunflower_seeds"
+  },
+  "result": {
+    "basePredicate": {
+      "item": "create_bic_bit:crushed_sunflower_seeds"
+    },
+    "count": 1
+  },
+  "secondaries": []
+}

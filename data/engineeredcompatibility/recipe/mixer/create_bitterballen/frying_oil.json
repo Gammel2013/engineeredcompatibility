@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create_bic_bit"
+    }
+  ],
+  "type": "immersiveengineering:mixer",
+  "energy": 1600,
+  "fluid": {
+    "amount": 250,
+    "tag": "c:water"
+  },
+  "inputs": [
+    {
+      "basePredicate": {
+        "item": "create_bic_bit:crushed_sunflower_seeds"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "amount": 250,
+    "id": "create_bic_bit:frying_oil"
+  }
+}
